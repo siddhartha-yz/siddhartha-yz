@@ -1,9 +1,10 @@
-Hi, I'm Zhi Yang
-Undergraduate at Nanjing University, majoring in **Mathematics and Applied Mathematics (Intelligent Science)**.
+# Hi, I'm Zhi Yang
 
-Interested in machine learning, deep learning, mathematical foundations, and AI systems. I learn by building systems, running experiments, and keeping reproducible notes.
+Undergraduate at **Nanjing University**, majoring in **Mathematics and Applied Mathematics (Intelligent Science)**.
 
-## Areas
+I’m interested in **machine learning**, **deep learning**, **mathematical foundations**, and **AI systems**. I learn mainly by building systems, running experiments, and keeping reproducible notes.
+
+## Areas of Interest
 
 - Machine Learning & Deep Learning
 - Mathematical Foundations of AI
@@ -11,17 +12,17 @@ Interested in machine learning, deep learning, mathematical foundations, and AI 
 
 ## Tech Stack
 
-- **Language:** Python
-- **Environment:** Linux
-- **ML:** PyTorch
-- **Tools:** Git, Docker
+**Language** · Python  
+**ML** · PyTorch  
+**Environment** · Linux  
+**Tools** · Git, Docker
 
-## Featured
+## Featured Projects
 
 ### [dsh-mcp-gateway](https://github.com/siddhartha-yz/dsh-mcp-gateway)
 
-Connect ChatGPT Web to DSH through OAuth + MCP, exposing DSH-native tools, skills, policies, and community extensions.
+A gateway that connects **ChatGPT Web** to **DSH** through OAuth + MCP, exposing DSH-native tools, skills, policies, and community extensions.
 
 ### [learning-notes](https://github.com/siddhartha-yz/learning-notes)
 
-Continuously updated notes on machine learning, deep learning, and their mathematical foundations.
+Continuously updated notes on **machine learning**, **deep learning**, and their **mathematical foundations**.
