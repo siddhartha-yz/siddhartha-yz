@@ -1,27 +1,27 @@
-# Hi, I'm Zhi Yang 👋
-
+Hi, I'm Zhi Yang
 Undergraduate at Nanjing University, majoring in **Mathematics and Applied Mathematics (Intelligent Science)**.
 
-Interested in **AI/ML, mathematical foundations, agent systems, and learning systems**. I learn by building small systems, running experiments, and keeping reproducible notes.
+Interested in machine learning, deep learning, mathematical foundations, and AI systems. I learn by building systems, running experiments, and keeping reproducible notes.
 
-## Tech stack
+## Areas
 
-- **Programming:** Python
-- **OS / Environment:** Linux
-- **AI:** Machine Learning, Deep Learning
-- **Foundations:** Mathematics, linear algebra, probability, optimization
+- Machine Learning & Deep Learning
+- Mathematical Foundations of AI
+- AI Agents & Tool-Using Systems
 
-## Currently exploring
+## Tech Stack
 
-- Deep learning and its mathematical foundations
-- AI agents, harnesses, and tool-using systems
-- Reinforcement learning
+- **Language:** Python
+- **Environment:** Linux
+- **ML:** PyTorch
+- **Tools:** Git, Docker
 
-## Featured projects
+## Featured
 
-- **[dsh-mcp-gateway](https://github.com/siddhartha-yz/dsh-mcp-gateway)** — durable DeepSeek Harness sessions exposed through MCP
-- **[learning-notes](https://github.com/siddhartha-yz/learning-notes)** — continuously updated notes from my studies
+### [dsh-mcp-gateway](https://github.com/siddhartha-yz/dsh-mcp-gateway)
 
-## Contact
+Connect ChatGPT Web to DSH through OAuth + MCP, exposing DSH-native tools, skills, policies, and community extensions.
 
-Feel free to open an issue or reach me through the links on my profile.
+### [learning-notes](https://github.com/siddhartha-yz/learning-notes)
+
+Continuously updated notes on machine learning, deep learning, and their mathematical foundations.
