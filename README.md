@@ -2,7 +2,7 @@
 
 Undergraduate at **Nanjing University**, majoring in **Mathematics and Applied Mathematics (Intelligent Science)**.
 
-I’m interested in **machine learning**, **deep learning**, **mathematical foundations**, and **AI systems**. I learn mainly by building systems, running experiments, and keeping reproducible notes.
+Interested in understanding and building AI systems from both **mathematical** and **engineering** perspectives. I build systems, run experiments, and maintain reproducible notes.
 
 ## Areas of Interest
 
@@ -13,7 +13,7 @@ I’m interested in **machine learning**, **deep learning**, **mathematical foun
 ## Tech Stack
 
 **Language** · Python  
-**ML** · PyTorch  
+**ML / DL** · PyTorch  
 **Environment** · Ubuntu 26.04 LTS (Linux)  
 **Tools** · Git, Docker
 
@@ -21,8 +21,8 @@ I’m interested in **machine learning**, **deep learning**, **mathematical foun
 
 ### [dsh-mcp-gateway](https://github.com/siddhartha-yz/dsh-mcp-gateway)
 
-A gateway that connects **ChatGPT Web** to **DSH** through OAuth + MCP, exposing DSH-native tools, skills, policies, and community extensions.
+An **MCP gateway** connecting **ChatGPT Web** with **DeepSeek Harness (DSH)**, exposing its native tools, skills, policies, and extensions.
 
 ### [learning-notes](https://github.com/siddhartha-yz/learning-notes)
 
-Continuously updated notes on **machine learning**, **deep learning**, and their **mathematical foundations**.
+Structured, continuously updated notes on **machine learning**, **deep learning**, and the mathematics behind them.
