@@ -14,7 +14,7 @@ I’m interested in **machine learning**, **deep learning**, **mathematical foun
 
 **Language** · Python  
 **ML** · PyTorch  
-**Environment** · Linux  
+**Environment** · Ubuntu 26.04 LTS (Linux)  
 **Tools** · Git, Docker
 
 ## Featured Projects
