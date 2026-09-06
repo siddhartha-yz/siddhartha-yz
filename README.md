@@ -1,6 +1,6 @@
 # Hi, I'm Zhi Yang
 
-Undergraduate at **Nanjing University**, majoring in **Mathematics and Applied Mathematics (Intelligent Science)**.
+Undergraduate at **Nanjing University** (2026 cohort), majoring in **Mathematics and Applied Mathematics (Intelligent Science)**.
 
 Interested in understanding and building AI systems from both **mathematical** and **engineering** perspectives. I build systems, run experiments, and maintain reproducible notes.
 
