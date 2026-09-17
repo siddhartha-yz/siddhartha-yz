@@ -10,6 +10,8 @@ A browser game that teaches supervised-learning intuition to first-year students
 
 Connects ChatGPT Web to a local DSH runtime over OAuth and MCP, so existing tools, skills, and policies can be called in chat without wrapping each extension.
 
+Python · PyTorch · Git · Docker · Linux
+
 Public study notes: [learning-notes](https://github.com/siddhartha-yz/learning-notes) (reading notes and exercises, not a project).
 
 [zhi.yang@smail.nju.edu.cn](mailto:zhi.yang@smail.nju.edu.cn)
