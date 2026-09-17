@@ -1,7 +1,15 @@
+### [stickman-rl-lab](https://github.com/siddhartha-yz/stickman-rl-lab)
+
+A reproducible 2D RL lab: an articulated stickman learns to reach a target with PPO. Independent full-course evaluation: **54/80 successes (67.5%)**. Does not claim upright walking.
+
+### [ai-anomaly-bureau](https://github.com/siddhartha-yz/ai-anomaly-bureau)
+
+A browser game that teaches supervised-learning intuition to first-year students, from a cat classified as bread through overfitting, hidden tests, and controlled experiments. [Live demo](https://siddhartha-yz.github.io/ai-anomaly-bureau/).
+
 ### [dsh-mcp-gateway](https://github.com/siddhartha-yz/dsh-mcp-gateway)
 
-把网页版 ChatGPT 通过 OAuth 和 MCP 接到本地的 DSH 运行时，让其中已有的工具、技能和策略能在对话里被调用，而不用为每个扩展再包一层。细节见仓库。
+Connects ChatGPT Web to a local DSH runtime over OAuth and MCP, so existing tools, skills, and policies can be called in chat without wrapping each extension.
 
-公开学习笔记：[learning-notes](https://github.com/siddhartha-yz/learning-notes)（跟读与练习，不是作品）
+Public study notes: [learning-notes](https://github.com/siddhartha-yz/learning-notes) (reading notes and exercises, not a project).
 
 [zhi.yang@smail.nju.edu.cn](mailto:zhi.yang@smail.nju.edu.cn)
