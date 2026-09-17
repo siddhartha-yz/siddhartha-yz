@@ -1,28 +1,5 @@
-# Hi, I'm Zhi Yang
-
-Undergraduate at **Nanjing University** (2026 cohort), majoring in **Mathematics and Applied Mathematics (Intelligent Science)**.
-
-Interested in understanding and building AI systems from both **mathematical** and **engineering** perspectives. I build systems, run experiments, and maintain reproducible notes.
-
-## Areas of Interest
-
-- Machine Learning & Deep Learning
-- Mathematical Foundations of AI
-- AI Agents & Tool-Using Systems
-
-## Tech Stack
-
-**Language** · Python  
-**ML / DL** · PyTorch  
-**Environment** · Ubuntu 26.04 LTS (Linux)  
-**Tools** · Git, Docker
-
-## Featured Projects
-
 ### [dsh-mcp-gateway](https://github.com/siddhartha-yz/dsh-mcp-gateway)
 
-An **MCP gateway** connecting **ChatGPT Web** with **DeepSeek Harness (DSH)**, exposing its native tools, skills, policies, and extensions.
+把网页版 ChatGPT 通过 OAuth 和 MCP 接到本地的 DSH 运行时，让其中已有的工具、技能和策略能在对话里被调用，而不用为每个扩展再包一层。细节见仓库。
 
-### [learning-notes](https://github.com/siddhartha-yz/learning-notes)
-
-Structured, continuously updated notes on **machine learning**, **deep learning**, and the mathematics behind them.
+公开学习笔记：[learning-notes](https://github.com/siddhartha-yz/learning-notes)（跟读与练习，不是作品）
