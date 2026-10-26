@@ -15,7 +15,6 @@
 ## 学习记录与实践
 
 - [**learning-notes**](https://github.com/siddhartha-yz/learning-notes) — 主要的学习记录，包含论文阅读、概念推导、PyTorch 练习和仍未解决的问题。
-- [**handwritten-dl**](https://github.com/siddhartha-yz/handwritten-dl) — 边读源码边手写深度学习模块。
 - [**kaggle**](https://github.com/siddhartha-yz/kaggle) — 在比赛中练习建模与验证，保留代码、实验过程和实际结果。
 - [**stickman-rl-lab**](https://github.com/siddhartha-yz/stickman-rl-lab) — 用 PPO 训练二维关节小人到达目标，探索强化学习的训练与评估。
 - [**Neural Choreography · 点还在动**](https://github.com/siddhartha-yz/neural-choreography) — 用动画表达神经网络中的状态传递与几何变化，也是一次把学习与创作联系起来的尝试。
