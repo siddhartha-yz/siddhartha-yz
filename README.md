@@ -1,17 +1,22 @@
-### [stickman-rl-lab](https://github.com/siddhartha-yz/stickman-rl-lab)
+# Hi, I'm Yangzhi
 
-A reproducible 2D RL lab: an articulated stickman learns to reach a target with PPO. Independent full-course evaluation: **54/80 successes (67.5%)**. Does not claim upright walking.
+正在学习深度学习，也在探索自己想长期研究的问题。
 
-### [ai-anomaly-bureau](https://github.com/siddhartha-yz/ai-anomaly-bureau)
+我喜欢从一个没想明白的问题出发：读论文、梳理原理、写代码，再用小实验检查自己的理解。这里记录学习过程、做过的尝试，以及还需要继续追问的问题。
 
-A browser game that teaches supervised-learning intuition to first-year students, from a cat classified as bread through overfitting, hidden tests, and controlled experiments. [Live demo](https://siddhartha-yz.github.io/ai-anomaly-bureau/).
+[个人网站](https://xddyz.art) · [学习笔记](https://github.com/siddhartha-yz/learning-notes) · [邮件](mailto:zhi.yang@smail.nju.edu.cn)
 
-### [dsh-mcp-gateway](https://github.com/siddhartha-yz/dsh-mcp-gateway)
+## 最近在学什么
 
-Connects ChatGPT Web to a local DSH runtime over OAuth and MCP, so existing tools, skills, and policies can be called in chat without wrapping each extension.
+- **深度学习基础**：理解网络结构、训练与泛化，用 PyTorch 和手写实现加深认识。
+- **论文与实验**：阅读模型机制和强化学习相关工作，尝试把问题变成可以检验的小实验。
+- **数学与编程**：补充基础，把推导、练习和遇到的问题留在笔记里。
 
-Python · PyTorch · Git · Docker · Linux
+## 学习记录与实践
 
-Public study notes: [learning-notes](https://github.com/siddhartha-yz/learning-notes) (reading notes and exercises, not a project).
+- [**learning-notes**](https://github.com/siddhartha-yz/learning-notes) — 主要的学习记录，包含论文阅读、概念推导、PyTorch 练习和仍未解决的问题。
+- [**kaggle**](https://github.com/siddhartha-yz/kaggle) — 在比赛中练习建模与验证，保留代码、实验过程和实际结果。
+- [**stickman-rl-lab**](https://github.com/siddhartha-yz/stickman-rl-lab) — 用 PPO 训练二维关节小人到达目标，探索强化学习的训练与评估。
+- [**Neural Choreography · 点还在动**](https://github.com/siddhartha-yz/neural-choreography) — 用动画表达神经网络中的状态传递与几何变化，也是一次把学习与创作联系起来的尝试。
 
-[zhi.yang@smail.nju.edu.cn](mailto:zhi.yang@smail.nju.edu.cn)
+笔记和实验会随着理解不断修订。欢迎指出错误，也欢迎交流具体的论文、问题与实验思路。
